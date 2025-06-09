@@ -7,6 +7,9 @@ fn main(){
 
     // x += 1;
 
+    // let x =5 
+    // let x = 6 //this is called shadowing
+
     // let y: &str = "Hello";//immutable variable y of type string
 
     // //destructuring a tuple 
